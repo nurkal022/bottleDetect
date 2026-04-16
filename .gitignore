@@ -6,16 +6,18 @@ __pycache__/
 venv/
 .DS_Store
 
-# Data (heavy, not for git)
-data/raw/
+# Данные включены в репо (8.6MB — допустимо)
+# data/raw/ — НЕ игнорируем
+
+# Промежуточные данные (если появятся)
 data/processed/
 data/ood/
+data/ood_processed/
 
-# Model artifacts (heavy)
+# Веса моделей — тяжёлые, не в git
 runs/
 *.pt
 *.onnx
-!yolov8n.pt.placeholder
 
 # IDE
 .idea/
@@ -26,3 +28,6 @@ runs/
 
 # OS
 Thumbs.db
+
+# Screenshots из демо
+screenshot_*.png
