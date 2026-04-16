@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+.DS_Store
+
+# Data (heavy, not for git)
+data/raw/
+data/processed/
+data/ood/
+
+# Model artifacts (heavy)
+runs/
+*.pt
+*.onnx
+!yolov8n.pt.placeholder
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
