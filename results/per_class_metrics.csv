@@ -1,0 +1,8 @@
+class_id,class_name,images,instances,precision,recall,mAP50,mAP50-95
+0,deformed_bottl,75,75,0.995,1.000,0.995,0.776
+1,misaligned_label,11,11,0.994,0.909,0.988,0.607
+2,missing_cap,34,34,0.943,0.972,0.994,0.451
+3,missing_label,46,46,0.906,0.839,0.944,0.446
+4,neck_deformed,6,6,0.984,1.000,0.995,0.689
+5,normal,73,93,0.943,1.000,0.986,0.766
+all,ALL,204,265,0.961,0.953,0.984,0.622

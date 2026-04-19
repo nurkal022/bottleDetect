@@ -6,28 +6,32 @@ __pycache__/
 venv/
 .DS_Store
 
-# Данные включены в репо (8.6MB — допустимо)
-# data/raw/ — НЕ игнорируем
-
-# Промежуточные данные (если появятся)
-data/processed/
-data/ood/
-data/ood_processed/
-
-# Веса моделей — тяжёлые, не в git
-runs/
-*.pt
-*.onnx
-
 # IDE
 .idea/
 .vscode/
 
 # Jupyter
 .ipynb_checkpoints/
+screenshot_*.png
 
 # OS
 Thumbs.db
 
-# Screenshots из демо
-screenshot_*.png
+# Старый classification датасет (удалён — если появится снова)
+data/
+
+# Старые classification runs
+runs/
+
+# Все .pt, кроме финальной detection-модели
+*.pt
+!runs_det/yolov8n_det/weights/best.pt
+
+# Большие промежуточные артефакты обучения
+*.onnx
+runs_det/*/weights/last.pt
+runs_det/*/weights/epoch*.pt
+
+# Временные zip-архивы
+*.zip
+!bottle defect.v3i.folder.zip

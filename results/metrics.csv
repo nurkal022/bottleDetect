@@ -1,0 +1,2 @@
+model,task,params_M,weights_MB,flops_G,imgsz,epochs_total,best_epoch,mAP50,mAP50-95,precision,recall,fps_cpu_imgsz512,latency_ms_cpu,device_train
+yolov8n_det,detection,3.01,6.23,8.1,640,100,84,0.9838,0.6216,0.9585,0.9511,33.5,29.83,NVIDIA RTX 5080 Laptop
