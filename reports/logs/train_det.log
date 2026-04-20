@@ -1,0 +1,1119 @@
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 1% ──────────── 56.0KB/6.2MB 149.5KB/s 0.1s<42.4s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 2% ──────────── 120.0KB/6.2MB 210.7KB/s 0.3s<29.8s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 4% ──────────── 240.0KB/6.2MB 1.1MB/s 0.4s<5.5s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 6% ╸─────────── 368.0KB/6.2MB 1.2MB/s 0.5s<4.8s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 8% ╸─────────── 496.0KB/6.2MB 1.2MB/s 0.6s<4.6s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 10% ━─────────── 640.0KB/6.2MB 1.3MB/s 0.7s<4.3s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 12% ━─────────── 784.0KB/6.2MB 1.3MB/s 0.8s<4.2s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 15% ━╸────────── 928.0KB/6.2MB 1.2MB/s 0.9s<4.3s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 17% ━━────────── 1.0/6.2MB 1.4MB/s 1.0s<3.8s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 19% ━━────────── 1.2/6.2MB 1.5MB/s 1.1s<3.5s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 22% ━━╸───────── 1.4/6.2MB 1.5MB/s 1.2s<3.3s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 24% ━━╸───────── 1.5/6.2MB 1.5MB/s 1.4s<3.2s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 27% ━━━───────── 1.7/6.2MB 1.5MB/s 1.5s<3.0s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 29% ━━━───────── 1.8/6.2MB 369.5KB/s 1.6s<12.3s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 33% ━━━╸──────── 2.0/6.2MB 2.1MB/s 1.7s<2.0s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 35% ━━━━──────── 2.2/6.2MB 1.1MB/s 1.9s<3.8s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 37% ━━━━──────── 2.3/6.2MB 1.1MB/s 2.0s<3.5s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 39% ━━━━╸─────── 2.4/6.2MB 1.2MB/s 2.1s<3.3s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 41% ━━━━╸─────── 2.5/6.2MB 1.2MB/s 2.2s<3.1s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 43% ━━━━━─────── 2.7/6.2MB 1.1MB/s 2.3s<3.3s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 45% ━━━━━─────── 2.8/6.2MB 1.2MB/s 2.4s<3.0s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 47% ━━━━━╸────── 2.9/6.2MB 1.2MB/s 2.5s<2.9s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 49% ━━━━━╸────── 3.0/6.2MB 1.2MB/s 2.6s<2.6s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 51% ━━━━━━────── 3.2/6.2MB 1.2MB/s 2.7s<2.5s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 52% ━━━━━━────── 3.2/6.2MB 429.0KB/s 2.9s<7.2s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 55% ━━━━━━╸───── 3.5/6.2MB 1.9MB/s 3.0s<1.4s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 57% ━━━━━━╸───── 3.5/6.2MB 571.0KB/s 3.1s<4.8s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 58% ━━━━━━╸───── 3.6/6.2MB 671.6KB/s 3.2s<4.0s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 60% ━━━━━━━───── 3.7/6.2MB 756.1KB/s 3.3s<3.4s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 61% ━━━━━━━───── 3.8/6.2MB 813.0KB/s 3.4s<3.0s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 63% ━━━━━━━╸──── 3.9/6.2MB 835.2KB/s 3.5s<2.8s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 65% ━━━━━━━╸──── 4.0/6.2MB 1018.8KB/s 3.6s<2.2s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 66% ━━━━━━━╸──── 4.1/6.2MB 845.4KB/s 3.7s<2.6s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 68% ━━━━━━━━──── 4.2/6.2MB 870.2KB/s 3.8s<2.4s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 69% ━━━━━━━━──── 4.3/6.2MB 1.0MB/s 3.9s<1.9s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 71% ━━━━━━━━╸─── 4.4/6.2MB 1.0MB/s 4.0s<1.8s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 73% ━━━━━━━━╸─── 4.5/6.2MB 1.0MB/s 4.1s<1.7s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 75% ━━━━━━━━╸─── 4.7/6.2MB 1.0MB/s 4.3s<1.6s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 76% ━━━━━━━━━─── 4.8/6.2MB 987.7KB/s 4.4s<1.5s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 78% ━━━━━━━━━─── 4.9/6.2MB 1.1MB/s 4.5s<1.3s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 80% ━━━━━━━━━╸── 5.0/6.2MB 1.0MB/s 4.6s<1.2s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 82% ━━━━━━━━━╸── 5.1/6.2MB 1.0MB/s 4.7s<1.1s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 83% ━━━━━━━━━╸── 5.2/6.2MB 1.1MB/s 4.8s<1.0s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 85% ━━━━━━━━━━── 5.3/6.2MB 1.0MB/s 4.9s<0.9s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 87% ━━━━━━━━━━── 5.4/6.2MB 999.1KB/s 5.0s<0.8s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 89% ━━━━━━━━━━╸─ 5.5/6.2MB 1.1MB/s 5.1s<0.7s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 89% ━━━━━━━━━━╸─ 5.6/6.2MB 717.5KB/s 5.2s<1.0s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 92% ━━━━━━━━━━━─ 5.8/6.2MB 1.5MB/s 5.4s<0.3s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 93% ━━━━━━━━━━━─ 5.8/6.2MB 725.8KB/s 5.5s<0.6s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 95% ━━━━━━━━━━━─ 5.9/6.2MB 763.1KB/s 5.6s<0.4s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 96% ━━━━━━━━━━━╸ 6.0/6.2MB 796.7KB/s 5.7s<0.3s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 98% ━━━━━━━━━━━╸ 6.1/6.2MB 822.9KB/s 5.8s<0.2s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 99% ━━━━━━━━━━━╸ 6.2/6.2MB 815.5KB/s 5.9s<0.1s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 100% ━━━━━━━━━━━━ 6.2MB 1.1MB/s 5.9s
+New https://pypi.org/project/ultralytics/8.4.39 available 😃 Update with 'pip install -U ultralytics'
+Ultralytics 8.4.38 🚀 Python-3.11.14 torch-2.9.1+cu130 CUDA:0 (NVIDIA GeForce RTX 5080 Laptop GPU, 15840MiB)
+[34m[1mengine/trainer: [0magnostic_nms=False, amp=True, angle=1.0, augment=False, auto_augment=randaugment, batch=32, bgr=0.0, box=7.5, cache=False, cfg=None, classes=None, close_mosaic=10, cls=0.5, cls_pw=0.0, compile=False, conf=None, copy_paste=0.0, copy_paste_mode=flip, cos_lr=False, cutmix=0.0, data=/home/nurlykhan/Diploms/bottleDetect/data/detection/data.yaml, degrees=0.0, deterministic=True, device=0, dfl=1.5, dnn=False, dropout=0.0, dynamic=False, embed=None, end2end=None, epochs=100, erasing=0.4, exist_ok=True, fliplr=0.5, flipud=0.0, format=torchscript, fraction=1.0, freeze=None, half=False, hsv_h=0.015, hsv_s=0.7, hsv_v=0.4, imgsz=640, int8=False, iou=0.7, keras=False, kobj=1.0, line_width=None, lr0=0.001, lrf=0.01, mask_ratio=4, max_det=300, mixup=0.0, mode=train, model=yolov8n.pt, momentum=0.937, mosaic=1.0, multi_scale=0.0, name=yolov8n_det, nbs=64, nms=False, opset=None, optimize=False, optimizer=AdamW, overlap_mask=True, patience=20, perspective=0.0, plots=True, pose=12.0, pretrained=True, profile=False, project=/home/nurlykhan/Diploms/bottleDetect/runs_det, rect=False, resume=False, retina_masks=False, rle=1.0, save=True, save_conf=False, save_crop=False, save_dir=/home/nurlykhan/Diploms/bottleDetect/runs_det/yolov8n_det, save_frames=False, save_json=False, save_period=-1, save_txt=False, scale=0.5, seed=42, shear=0.0, show=False, show_boxes=True, show_conf=True, show_labels=True, simplify=True, single_cls=False, source=None, split=val, stream_buffer=False, task=detect, time=None, tracker=botsort.yaml, translate=0.1, val=True, verbose=True, vid_stride=1, visualize=False, warmup_bias_lr=0.1, warmup_epochs=3.0, warmup_momentum=0.8, weight_decay=0.0005, workers=8, workspace=None
+Overriding model.yaml nc=80 with nc=6
+
+                   from  n    params  module                                       arguments                     
+  0                  -1  1       464  ultralytics.nn.modules.conv.Conv             [3, 16, 3, 2]                 
+  1                  -1  1      4672  ultralytics.nn.modules.conv.Conv             [16, 32, 3, 2]                
+  2                  -1  1      7360  ultralytics.nn.modules.block.C2f             [32, 32, 1, True]             
+  3                  -1  1     18560  ultralytics.nn.modules.conv.Conv             [32, 64, 3, 2]                
+  4                  -1  2     49664  ultralytics.nn.modules.block.C2f             [64, 64, 2, True]             
+  5                  -1  1     73984  ultralytics.nn.modules.conv.Conv             [64, 128, 3, 2]               
+  6                  -1  2    197632  ultralytics.nn.modules.block.C2f             [128, 128, 2, True]           
+  7                  -1  1    295424  ultralytics.nn.modules.conv.Conv             [128, 256, 3, 2]              
+  8                  -1  1    460288  ultralytics.nn.modules.block.C2f             [256, 256, 1, True]           
+  9                  -1  1    164608  ultralytics.nn.modules.block.SPPF            [256, 256, 5]                 
+ 10                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          
+ 11             [-1, 6]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 12                  -1  1    148224  ultralytics.nn.modules.block.C2f             [384, 128, 1]                 
+ 13                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          
+ 14             [-1, 4]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 15                  -1  1     37248  ultralytics.nn.modules.block.C2f             [192, 64, 1]                  
+ 16                  -1  1     36992  ultralytics.nn.modules.conv.Conv             [64, 64, 3, 2]                
+ 17            [-1, 12]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 18                  -1  1    123648  ultralytics.nn.modules.block.C2f             [192, 128, 1]                 
+ 19                  -1  1    147712  ultralytics.nn.modules.conv.Conv             [128, 128, 3, 2]              
+ 20             [-1, 9]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 21                  -1  1    493056  ultralytics.nn.modules.block.C2f             [384, 256, 1]                 
+ 22        [15, 18, 21]  1    752482  ultralytics.nn.modules.head.Detect           [6, 16, None, [64, 128, 256]] 
+Model summary: 130 layers, 3,012,018 parameters, 3,012,002 gradients, 8.2 GFLOPs
+
+Transferred 319/355 items from pretrained weights
+Freezing layer 'model.22.dfl.conv.weight'
+[34m[1mAMP: [0mrunning Automatic Mixed Precision (AMP) checks...
+[34m[1mAMP: [0mchecks passed ✅
+[34m[1mtrain: [0mFast image access ✅ (ping: 0.0±0.0 ms, read: 2370.6±687.5 MB/s, size: 448.2 KB)
+[K[34m[1mtrain: [0mScanning /home/nurlykhan/Diploms/bottleDetect/data/detection/train/labels... 530 images, 0 backgrounds, 0 corrupt: 46% ━━━━━─────── 530/1161 1.6Kit/s 0.1s<0.4s[K[34m[1mtrain: [0mScanning /home/nurlykhan/Diploms/bottleDetect/data/detection/train/labels... 1044 images, 0 backgrounds, 0 corrupt: 90% ━━━━━━━━━━╸─ 1044/1161 2.6Kit/s 0.2s<0.0s[K[34m[1mtrain: [0mScanning /home/nurlykhan/Diploms/bottleDetect/data/detection/train/labels... 1161 images, 0 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 1161/1161 5.3Kit/s 0.2s
+[34m[1mtrain: [0mNew cache created: /home/nurlykhan/Diploms/bottleDetect/data/detection/train/labels.cache
+[34m[1mval: [0mFast image access ✅ (ping: 0.0±0.0 ms, read: 2946.5±1695.9 MB/s, size: 59.7 KB)
+[K[34m[1mval: [0mScanning /home/nurlykhan/Diploms/bottleDetect/data/detection/val/labels... 204 images, 0 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 204/204 3.0Kit/s 0.1s
+[34m[1mval: [0mNew cache created: /home/nurlykhan/Diploms/bottleDetect/data/detection/val/labels.cache
+[34m[1moptimizer:[0m AdamW(lr=0.001, momentum=0.937) with parameter groups 57 weight(decay=0.0), 64 weight(decay=0.0005), 63 bias(decay=0.0)
+Plotting labels to /home/nurlykhan/Diploms/bottleDetect/runs_det/yolov8n_det/labels.jpg... 
+Image sizes 640 train, 640 val
+Using 8 dataloader workers
+Logging results to [1m/home/nurlykhan/Diploms/bottleDetect/runs_det/yolov8n_det[0m
+Starting training for 100 epochs...
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+[K      1/100      4.03G       1.66      3.694      1.886        109        640: 0% ──────────── 0/37  2.8s[K      1/100      4.03G      1.733      3.823      1.947         81        640: 3% ──────────── 1/37 2.2it/s 3.0s<16.6s[K      1/100      4.03G      1.671       3.77       1.85         98        640: 5% ╸─────────── 2/37 3.9it/s 3.1s<9.0s[K      1/100      4.03G      1.701      3.785      1.883         91        640: 8% ╸─────────── 3/37 4.6it/s 3.2s<7.3s[K      1/100      4.03G      1.666      3.765      1.865         93        640: 11% ━─────────── 4/37 5.9it/s 3.4s<5.6s[K      1/100      4.03G      1.716      3.822      1.915         79        640: 14% ━╸────────── 5/37 6.8it/s 3.5s<4.7s[K      1/100      4.05G      1.732      3.826      1.924         89        640: 16% ━╸────────── 6/37 6.2it/s 3.7s<5.0s[K      1/100      4.05G       1.73      3.816      1.926         88        640: 19% ━━────────── 7/37 6.1it/s 3.8s<4.9s[K      1/100      4.05G      1.708       3.78      1.903         99        640: 22% ━━╸───────── 8/37 6.7it/s 4.0s<4.3s[K      1/100      4.05G      1.667      3.722      1.872         88        640: 24% ━━╸───────── 9/37 7.1it/s 4.1s<4.0s[K      1/100      4.05G      1.636      3.671      1.845         77        640: 27% ━━━───────── 10/37 7.3it/s 4.2s<3.7s[K      1/100      4.05G      1.609      3.629      1.831         81        640: 30% ━━━╸──────── 11/37 7.5it/s 4.3s<3.4s[K      1/100      4.05G       1.58       3.56      1.803         81        640: 32% ━━━╸──────── 12/37 7.7it/s 4.5s<3.2s[K      1/100      4.05G      1.571      3.523      1.794         90        640: 35% ━━━━──────── 13/37 7.0it/s 4.6s<3.4s[K      1/100      4.05G      1.558      3.494      1.786         91        640: 38% ━━━━╸─────── 14/37 6.6it/s 4.8s<3.5s[K      1/100      4.05G      1.541       3.45       1.77        104        640: 41% ━━━━╸─────── 15/37 7.1it/s 5.0s<3.1s[K      1/100      4.05G      1.534      3.418      1.765         85        640: 43% ━━━━━─────── 16/37 7.3it/s 5.1s<2.9s[K      1/100      4.05G      1.537      3.393      1.773         76        640: 46% ━━━━━╸────── 17/37 7.5it/s 5.2s<2.7s[K      1/100      4.05G      1.535      3.364      1.767         79        640: 49% ━━━━━╸────── 18/37 6.6it/s 5.4s<2.9s[K      1/100      4.05G      1.537      3.318      1.762         88        640: 51% ━━━━━━────── 19/37 7.1it/s 5.6s<2.5s[K      1/100      4.05G      1.523      3.274      1.752         78        640: 54% ━━━━━━────── 20/37 6.7it/s 5.7s<2.5s[K      1/100      4.05G      1.517      3.239      1.745         88        640: 57% ━━━━━━╸───── 21/37 6.3it/s 5.9s<2.5s[K      1/100      4.05G      1.518      3.209      1.749         82        640: 59% ━━━━━━━───── 22/37 7.0it/s 6.0s<2.1s[K      1/100      4.05G      1.509      3.181      1.738         93        640: 62% ━━━━━━━───── 23/37 7.4it/s 6.1s<1.9s[K      1/100      4.05G      1.501      3.149      1.732         71        640: 65% ━━━━━━━╸──── 24/37 7.1it/s 6.3s<1.8s[K      1/100      4.05G      1.496      3.118      1.726         93        640: 68% ━━━━━━━━──── 25/37 7.0it/s 6.5s<1.7s[K      1/100      4.05G      1.494      3.099      1.727         93        640: 70% ━━━━━━━━──── 26/37 7.2it/s 6.6s<1.5s[K      1/100      4.05G      1.491      3.072      1.724         80        640: 73% ━━━━━━━━╸─── 27/37 7.3it/s 6.7s<1.4s[K      1/100      4.05G       1.49      3.051      1.724         93        640: 76% ━━━━━━━━━─── 28/37 7.3it/s 6.9s<1.2s[K      1/100      4.05G      1.489      3.023      1.721        110        640: 78% ━━━━━━━━━─── 29/37 7.5it/s 7.0s<1.1s[K      1/100      4.05G      1.488      2.999      1.722         88        640: 81% ━━━━━━━━━╸── 30/37 7.7it/s 7.1s<0.9s[K      1/100      4.05G      1.485      2.974       1.72        100        640: 84% ━━━━━━━━━━── 31/37 7.6it/s 7.2s<0.8s[K      1/100      4.05G      1.481       2.95      1.715        101        640: 86% ━━━━━━━━━━── 32/37 7.5it/s 7.4s<0.7s[K      1/100      4.05G      1.477      2.924      1.712         74        640: 89% ━━━━━━━━━━╸─ 33/37 7.4it/s 7.5s<0.5s[K      1/100      4.05G      1.474      2.903      1.711         86        640: 92% ━━━━━━━━━━━─ 34/37 7.3it/s 7.7s<0.4s[K      1/100      4.05G      1.477       2.89      1.712         79        640: 95% ━━━━━━━━━━━─ 35/37 7.2it/s 7.8s<0.3s[K      1/100      4.07G      1.472       2.86      1.706         26        640: 97% ━━━━━━━━━━━╸ 36/37 6.1it/s 8.1s<0.2s[K      1/100      4.07G      1.472       2.86      1.706         26        640: 100% ━━━━━━━━━━━━ 37/37 4.6it/s 8.1s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 0% ──────────── 0/4  0.3s
+Traceback (most recent call last):
+  File "/home/nurlykhan/Diploms/bottleDetect/scripts/train_detection.py", line 6, in <module>
+    model.train(
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/ultralytics/engine/model.py", line 788, in train
+    self.trainer.train()
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/ultralytics/engine/trainer.py", line 246, in train
+    self._do_train()
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/ultralytics/engine/trainer.py", line 521, in _do_train
+    self.metrics, self.fitness = self.validate()
+                                 ^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/ultralytics/engine/trainer.py", line 758, in validate
+    metrics = self.validator(self)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/ultralytics/engine/validator.py", line 233, in __call__
+    self.update_metrics(preds, batch)
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/ultralytics/models/yolo/detect/val.py", line 184, in update_metrics
+    **self._process_batch(predn, pbatch),
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/ultralytics/models/yolo/detect/val.py", line 287, in _process_batch
+    iou = box_iou(batch["bboxes"], preds["bboxes"])
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/ultralytics/utils/metrics.py", line 75, in box_iou
+    inter = (torch.min(a2, b2) - torch.max(a1, b1)).clamp_(0).prod(2)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: 
+  #ifdef __HIPCC__
+  #define ERROR_UNSUPPORTED_CAST ;
+  // corresponds to aten/src/ATen/native/cuda/thread_constants.h
+  #define CUDA_OR_ROCM_NUM_THREADS 256
+  // corresponds to aten/src/ATen/cuda/detail/OffsetCalculator.cuh
+  #define MAX_DIMS 16
+  #ifndef __forceinline__
+  #define __forceinline__ inline __attribute__((always_inline))
+  #endif
+  #else
+  //TODO use _assert_fail, because assert is disabled in non-debug builds
+  #define ERROR_UNSUPPORTED_CAST assert(false);
+  #define CUDA_OR_ROCM_NUM_THREADS 128
+  #define MAX_DIMS 25
+  #endif
+  #define POS_INFINITY __int_as_float(0x7f800000)
+  #define INFINITY POS_INFINITY
+  #define NEG_INFINITY __int_as_float(0xff800000)
+  #define NAN __int_as_float(0x7fffffff)
+
+  typedef long long int int64_t;
+  typedef unsigned int uint32_t;
+  typedef signed char int8_t;
+  typedef unsigned char uint8_t;  // NOTE: this MUST be "unsigned char"! "char" is equivalent to "signed char"
+  typedef short int16_t;
+  static_assert(sizeof(int64_t) == 8, "expected size does not match");
+  static_assert(sizeof(uint32_t) == 4, "expected size does not match");
+  static_assert(sizeof(int8_t) == 1, "expected size does not match");
+  constexpr int num_threads = CUDA_OR_ROCM_NUM_THREADS;
+  constexpr int thread_work_size = 8; // TODO: make template substitution once we decide where those vars live
+  constexpr int block_work_size = thread_work_size * num_threads;
+
+  
+  
+  
+  namespace std {
+  
+  using ::signbit;
+  using ::isfinite;
+  using ::isinf;
+  using ::isnan;
+  
+  using ::abs;
+  
+  using ::acos;
+  using ::acosf;
+  using ::asin;
+  using ::asinf;
+  using ::atan;
+  using ::atanf;
+  using ::atan2;
+  using ::atan2f;
+  using ::ceil;
+  using ::ceilf;
+  using ::cos;
+  using ::cosf;
+  using ::cosh;
+  using ::coshf;
+  
+  using ::exp;
+  using ::expf;
+  
+  using ::fabs;
+  using ::fabsf;
+  using ::floor;
+  using ::floorf;
+  
+  using ::fmod;
+  using ::fmodf;
+  
+  using ::frexp;
+  using ::frexpf;
+  using ::ldexp;
+  using ::ldexpf;
+  
+  using ::log;
+  using ::logf;
+  
+  using ::log10;
+  using ::log10f;
+  using ::modf;
+  using ::modff;
+  
+  using ::pow;
+  using ::powf;
+  
+  using ::sin;
+  using ::sinf;
+  using ::sinh;
+  using ::sinhf;
+  
+  using ::sqrt;
+  using ::sqrtf;
+  using ::tan;
+  using ::tanf;
+  
+  using ::tanh;
+  using ::tanhf;
+  
+  using ::acosh;
+  using ::acoshf;
+  using ::asinh;
+  using ::asinhf;
+  using ::atanh;
+  using ::atanhf;
+  using ::cbrt;
+  using ::cbrtf;
+  
+  using ::copysign;
+  using ::copysignf;
+  
+  using ::erf;
+  using ::erff;
+  using ::erfc;
+  using ::erfcf;
+  using ::exp2;
+  using ::exp2f;
+  using ::expm1;
+  using ::expm1f;
+  using ::fdim;
+  using ::fdimf;
+  using ::fmaf;
+  using ::fma;
+  using ::fmax;
+  using ::fmaxf;
+  using ::fmin;
+  using ::fminf;
+  using ::hypot;
+  using ::hypotf;
+  using ::ilogb;
+  using ::ilogbf;
+  using ::lgamma;
+  using ::lgammaf;
+  using ::llrint;
+  using ::llrintf;
+  using ::llround;
+  using ::llroundf;
+  using ::log1p;
+  using ::log1pf;
+  using ::log2;
+  using ::log2f;
+  using ::logb;
+  using ::logbf;
+  using ::lrint;
+  using ::lrintf;
+  using ::lround;
+  using ::lroundf;
+  
+  using ::nan;
+  using ::nanf;
+  
+  using ::nearbyint;
+  using ::nearbyintf;
+  using ::nextafter;
+  using ::nextafterf;
+  using ::remainder;
+  using ::remainderf;
+  using ::remquo;
+  using ::remquof;
+  using ::rint;
+  using ::rintf;
+  using ::round;
+  using ::roundf;
+  using ::scalbln;
+  using ::scalblnf;
+  using ::scalbn;
+  using ::scalbnf;
+  using ::tgamma;
+  using ::tgammaf;
+  using ::trunc;
+  using ::truncf;
+  
+  } // namespace std
+  
+  
+
+  // NB: Order matters for this macro; it is relied upon in
+  // _promoteTypesLookup and the serialization format.
+  // Note, some types have ctype as void because we don't support them in codegen
+  #define AT_FORALL_SCALAR_TYPES_WITH_COMPLEX(_) \
+  _(uint8_t, Byte) /* 0 */                               \
+  _(int8_t, Char) /* 1 */                                \
+  _(int16_t, Short) /* 2 */                              \
+  _(int, Int) /* 3 */                                    \
+  _(int64_t, Long) /* 4 */                               \
+  _(at::Half, Half) /* 5 */                                  \
+  _(float, Float) /* 6 */                                \
+  _(double, Double) /* 7 */                              \
+  _(std::complex<at::Half>, ComplexHalf) /* 8 */        \
+  _(std::complex<float>, ComplexFloat) /* 9 */                          \
+  _(std::complex<double>, ComplexDouble) /* 10 */                         \
+  _(bool, Bool) /* 11 */                                 \
+  _(void, QInt8) /* 12 */                          \
+  _(void, QUInt8) /* 13 */                        \
+  _(void, QInt32) /* 14 */                        \
+  _(at::BFloat16, BFloat16) /* 15 */                             \
+
+  #define AT_FORALL_SCALAR_TYPES_WITH_COMPLEX_EXCEPT_QINT(_)       \
+  _(uint8_t, Byte)                                                 \
+  _(int8_t, Char)                                                  \
+  _(int16_t, Short)                                                \
+  _(int, Int)                                                      \
+  _(int64_t, Long)                                                 \
+  _(at::Half, Half)                                                \
+  _(float, Float)                                                  \
+  _(double, Double)                                                \
+  _(std::complex<at::Half>, ComplexHalf)                           \
+  _(std::complex<float>, ComplexFloat)                             \
+  _(std::complex<double>, ComplexDouble)                           \
+  _(bool, Bool)                                                    \
+  _(at::BFloat16, BFloat16)
+
+
+  enum class ScalarType : int8_t {
+  #define DEFINE_ENUM(_1, n) n,
+  AT_FORALL_SCALAR_TYPES_WITH_COMPLEX(DEFINE_ENUM)
+  #undef DEFINE_ENUM
+      Undefined,
+  NumOptions
+  };
+
+  template <typename T, int size>
+  struct Array {
+  T data[size];
+
+  __device__ T operator[](int i) const {
+      return data[i];
+  }
+  __device__ T& operator[](int i) {
+      return data[i];
+  }
+  Array() = default;
+  Array(const Array&) = default;
+  Array& operator=(const Array&) = default;
+  __device__ Array(T x) {
+    for (int i = 0; i < size; i++) {
+      data[i] = x;
+    }
+  }
+  };
+
+  
+  
+  
+  
+  
+
+
+
+  template <typename T>
+  struct DivMod {
+  T div;
+  T mod;
+
+  __device__ DivMod(T _div, T _mod) {
+      div = _div;
+      mod = _mod;
+  }
+  };
+
+  //<unsigned int>
+  struct IntDivider {
+  IntDivider() = default;
+
+  __device__ inline unsigned int div(unsigned int n) const {
+  unsigned int t = __umulhi(n, m1);
+  return (t + n) >> shift;
+  }
+
+  __device__ inline unsigned int mod(unsigned int n) const {
+  return n - div(n) * divisor;
+  }
+
+  __device__ inline DivMod<unsigned int> divmod(unsigned int n) const {
+  unsigned int q = div(n);
+  return DivMod<unsigned int>(q, n - q * divisor);
+  }
+
+  unsigned int divisor;  // d above.
+  unsigned int m1;  // Magic number: m' above.
+  unsigned int shift;  // Shift amounts.
+  };
+
+  template <int NARGS>
+  struct TrivialOffsetCalculator {
+    // The offset for each argument. Wrapper around fixed-size array.
+    // The offsets are in # of elements, not in bytes.
+    Array<unsigned int, NARGS> get(unsigned int linear_idx) const {
+      Array<unsigned int, NARGS> offsets;
+      #pragma unroll
+      for (int arg = 0; arg < NARGS; arg++) {
+        offsets[arg] = linear_idx;
+      }
+      return offsets;
+    }
+  };
+
+  template<int NARGS>
+  struct OffsetCalculator {
+  OffsetCalculator() = default;
+  __device__ __forceinline__ Array<unsigned int, NARGS> get(unsigned int linear_idx) const {
+      Array<unsigned int, NARGS> offsets;
+      #pragma unroll
+      for (int arg = 0; arg < NARGS; ++arg) {
+      offsets[arg] = 0;
+      }
+
+      #pragma unroll
+      for (int dim = 0; dim < MAX_DIMS; ++dim) {
+      if (dim == dims) {
+          break;
+      }
+
+      auto divmod = sizes_[dim].divmod(linear_idx);
+      linear_idx = divmod.div;
+
+      #pragma unroll
+      for (int arg = 0; arg < NARGS; ++arg) {
+          offsets[arg] += divmod.mod * strides_[dim][arg];
+      }
+      //printf("offset calc thread dim size stride offset %d %d %d %d %d %d %d %d\n",
+      //threadIdx.x, dim, sizes_[dim].divisor, strides_[dim][0], offsets[0], linear_idx, divmod.div, divmod.mod);
+      }
+      return offsets;
+  }
+
+    int dims;
+    IntDivider sizes_[MAX_DIMS];
+    // NOTE: this approach will not support nInputs == 0
+    unsigned int strides_[MAX_DIMS][NARGS];
+  };
+
+
+
+  #define C10_HOST_DEVICE __host__ __device__
+  #define C10_DEVICE __device__
+  #if defined(__clang__) && defined(__HIP__)
+  #ifndef __forceinline__
+  #define __forceinline__ inline __attribute__((always_inline))
+  #endif
+  // until ROCm support for kernel asserts is restored
+  #define assert(expr) (static_cast<void>(0))
+  #endif
+
+  template <typename T>
+  __device__ __forceinline__ T WARP_SHFL_DOWN(T value, unsigned int delta, int width = warpSize, unsigned int mask = 0xffffffff)
+  {
+  #if defined(__clang__) && defined(__HIP__)
+    return __shfl_down(value, delta, width);
+  #else
+    return __shfl_down_sync(mask, value, delta, width);
+  #endif
+  }
+
+
+  #if 0
+  template <typename T>
+  __device__ __forceinline__ std::complex<T> WARP_SHFL_DOWN(std::complex<T> value, unsigned int delta, int width = warpSize, unsigned int mask = 0xffffffff)
+  {
+    return std::complex<T>(
+  #if defined(__clang__) && defined(__HIP__)
+        __shfl_down(value.real(), delta, width),
+        __shfl_down(value.imag(), delta, width));
+  #else
+        __shfl_down_sync(mask, value.real(), delta, width),
+        __shfl_down_sync(mask, value.imag(), delta, width));
+  #endif
+  }
+  #endif
+
+  // aligned vector generates vectorized load/store on CUDA
+  template<typename scalar_t, int vec_size>
+  struct alignas(sizeof(scalar_t) * vec_size) aligned_vector {
+    scalar_t val[vec_size];
+  };
+
+
+  C10_HOST_DEVICE static void reduce_fraction(size_t &numerator, size_t &denominator) {
+    // get GCD of num and denom using Euclid's algorithm.
+    // Can replace this with std::gcd if we ever support c++17.
+    size_t a = denominator;
+    size_t b = numerator;
+    while (b != 0) {
+        a %= b;
+        // swap(a,b)
+        size_t tmp = a;
+        a = b;
+        b = tmp;
+    }
+
+    // a is now the GCD
+    numerator /= a;
+    denominator /= a;
+  }
+
+
+
+
+  struct ReduceConfig {
+  //has to match host-side ReduceConfig in the eager code
+  static constexpr int BLOCK_X = 0;
+  static constexpr int BLOCK_Y = 1;
+  static constexpr int CTA = 2;
+
+  static constexpr int input_vec_size = 4;
+  int element_size_bytes;
+  int num_inputs;
+  int num_outputs;
+  int step_input = 1;
+  int step_output = 1;
+  int ctas_per_output = 1;
+  int input_mult[3] = {0, 0, 0};
+  int output_mult[2] = {0, 0};
+
+  int block_width;
+  int block_height;
+  int num_threads;
+
+  bool vectorize_input = false;
+  int output_vec_size = 1;
+
+  C10_HOST_DEVICE bool should_block_x_reduce() const {
+    return input_mult[BLOCK_X] != 0;
+  }
+
+  C10_HOST_DEVICE bool should_block_y_reduce() const {
+    return input_mult[BLOCK_Y] != 0;
+  }
+
+  C10_HOST_DEVICE bool should_global_reduce() const {
+    return input_mult[CTA] != 0;
+  }
+
+  C10_DEVICE bool should_store(int output_idx) const {
+    return output_idx < num_outputs &&
+      (!should_block_x_reduce() || threadIdx.x == 0) &&
+      (!should_block_y_reduce() || threadIdx.y == 0);
+  }
+
+  C10_DEVICE bool should_reduce_tail() const {
+    return (!should_block_y_reduce() || threadIdx.y == 0) &&
+      (!should_global_reduce() || blockIdx.y == 0);
+  }
+
+  C10_HOST_DEVICE int input_idx() const {
+    int lane = threadIdx.x;
+    int warp = threadIdx.y;
+    int cta2 = blockIdx.y;
+    return (lane * input_mult[BLOCK_X] +
+            warp * input_mult[BLOCK_Y] +
+            cta2 * input_mult[CTA]);
+  }
+
+  template <int output_vec_size>
+  C10_HOST_DEVICE int output_idx() const {
+    int lane = threadIdx.x;
+    int warp = threadIdx.y;
+    int cta1 = blockIdx.x;
+    return (lane * output_mult[BLOCK_X] +
+            warp * output_mult[BLOCK_Y] +
+            cta1 * step_output) * output_vec_size;
+  }
+
+  C10_DEVICE int shared_memory_offset(int offset) const {
+    return threadIdx.x + (threadIdx.y + offset) * blockDim.x;
+  }
+
+  C10_DEVICE int staging_memory_offset(int cta2) const {
+    int offset = cta2 + blockIdx.x * gridDim.y;
+    if (!should_block_x_reduce()) {
+      offset = threadIdx.x + offset * blockDim.x;
+    }
+    return offset;
+  }
+
+
+  };
+
+
+//TODO this will need to be different for more generic reduction functions
+namespace reducer {
+
+  using scalar_t = float;
+  using arg_t = float;
+  using out_scalar_t = float;
+
+
+  inline __device__ arg_t combine(arg_t a, arg_t b) { return a * b; }
+
+  inline __device__ out_scalar_t project(arg_t arg) {
+    return (out_scalar_t) arg;
+  }
+
+  inline __device__ arg_t warp_shfl_down(arg_t arg, int offset) {
+    return WARP_SHFL_DOWN(arg, offset);
+  }
+
+  inline __device__ arg_t translate_idx(arg_t acc, int64_t /*idx*/) {
+    return acc;
+  }
+
+  // wrap a normal reduction that ignores the index
+  inline __device__ arg_t reduce(arg_t acc, arg_t val, int64_t idx) {
+     return combine(acc, val);
+  }
+}
+
+
+struct ReduceJitOp {
+  using scalar_t = float;
+  using arg_t = float;
+  using out_scalar_t = float;
+
+  using InputCalculator = OffsetCalculator<1>;
+  using OutputCalculator = OffsetCalculator<2>;
+
+//   static constexpr bool can_accumulate_in_output =
+//     std::is_convertible_v<arg_t, out_scalar_t>
+//     && std::is_convertible_v<out_scalar_t, arg_t>;
+
+  static constexpr int input_vec_size = ReduceConfig::input_vec_size;
+
+  arg_t ident;
+  ReduceConfig config;
+  InputCalculator input_calc;
+  OutputCalculator output_calc;
+  const void* src;
+  const char* dst[2]; //it accepts at most two destinations
+  // acc_buf used for accumulation among sub Tensor Iterator when accumulation on
+  // output is not permissible
+  void* acc_buf;
+  // cta_buf used for accumulation between blocks during global reduction
+  void* cta_buf;
+  int* semaphores;
+  int64_t base_idx;
+  bool accumulate;
+  bool final_output;
+  int noutputs;
+
+
+  C10_DEVICE void run() const {
+    extern __shared__ char shared_memory[];
+    uint32_t output_idx = config.output_idx<1>();
+    uint32_t input_idx = config.input_idx();
+    auto base_offsets1 = output_calc.get(output_idx)[1];
+
+    using arg_vec_t = Array<arg_t, 1>;
+    arg_vec_t value;
+
+    if (output_idx < config.num_outputs && input_idx < config.num_inputs) {
+      const scalar_t* input_slice = (const scalar_t*)((const char*)src + base_offsets1);
+
+      value = thread_reduce<1>(input_slice);
+    }
+
+    if (config.should_block_y_reduce()) {
+      value = block_y_reduce<1>(value, shared_memory);
+    }
+    if (config.should_block_x_reduce()) {
+      value = block_x_reduce<1>(value, shared_memory);
+    }
+
+    using out_ptr_vec_t = Array<out_scalar_t*, 1>;
+    using offset_vec_t = Array<uint32_t, 1>;
+    offset_vec_t base_offsets;
+    out_ptr_vec_t out;
+
+    #pragma unroll
+    for (int i = 0; i < 1; i++) {
+      base_offsets[i] = output_calc.get(output_idx + i)[0];
+      out[i] = (out_scalar_t*)((char*)dst[0] + base_offsets[i]);
+    }
+
+    arg_vec_t* acc = nullptr;
+    if (acc_buf != nullptr) {
+      size_t numerator = sizeof(arg_t);
+      size_t denominator = sizeof(out_scalar_t);
+      reduce_fraction(numerator, denominator);
+      acc = (arg_vec_t*)((char*)acc_buf + (base_offsets[0] * numerator / denominator));
+    }
+
+    if (config.should_global_reduce()) {
+      value = global_reduce<1>(value, acc, shared_memory);
+    } else if (config.should_store(output_idx)) {
+      if (accumulate) {
+        #pragma unroll
+        for (int i = 0; i < 1; i++) {
+          value[i] = reducer::translate_idx(value[i], base_idx);
+        }
+      }
+
+      if (acc == nullptr) {
+        if (accumulate) {
+          value = accumulate_in_output<1>(out, value);
+        }
+        if (final_output) {
+          set_results_to_output<1>(value, base_offsets);
+        } else {
+          #pragma unroll
+          for (int i = 0; i < 1; i++) {
+            *(out[i]) = get_accumulated_output(out[i], value[i]);
+          }
+        }
+      } else {
+        if (accumulate) {
+          #pragma unroll
+          for (int i = 0; i < 1; i++) {
+            value[i] = reducer::combine((*acc)[i], value[i]);
+          }
+        }
+        if (final_output) {
+          set_results_to_output<1>(value, base_offsets);
+        } else {
+          *acc = value;
+        }
+      }
+    }
+  }
+
+  template <int output_vec_size>
+  C10_DEVICE Array<arg_t, output_vec_size> thread_reduce(const scalar_t* data) const {
+    if (config.vectorize_input) {
+      assert(output_vec_size == 1);
+      // reduce at the header of input_slice where memory is not aligned,
+      // so that thread_reduce will have an aligned memory to work on.
+      return {input_vectorized_thread_reduce_impl(data)};
+    } else {
+      uint32_t element_stride = input_calc.strides_[0][0] / sizeof(scalar_t);
+      bool is_contiguous = (input_calc.dims == 1 && element_stride == 1);
+      if (is_contiguous) {
+        return thread_reduce_impl<output_vec_size>(data, [](uint32_t idx) { return idx; });
+      } else if (input_calc.dims == 1) {
+        return thread_reduce_impl<output_vec_size>(data, [&](uint32_t idx) { return idx * element_stride; });
+      } else {
+        return thread_reduce_impl<output_vec_size>(data, [&](uint32_t idx) { return input_calc.get(idx)[0] / sizeof(scalar_t); });
+      }
+    }
+  }
+
+  C10_DEVICE arg_t input_vectorized_thread_reduce_impl(const scalar_t* data) const {
+    uint32_t end = config.num_inputs;
+
+    // Handle the head of input slice where data is not aligned
+    arg_t value = ident;
+    constexpr int align_bytes = alignof(aligned_vector<scalar_t, input_vec_size>);
+    constexpr int align_elements = align_bytes / sizeof(scalar_t);
+    int shift = ((int64_t)data) % align_bytes / sizeof(scalar_t);
+    if (shift > 0) {
+      data -= shift;
+      end += shift;
+      if(threadIdx.x >= shift && threadIdx.x < align_elements && config.should_reduce_tail()){
+        value = reducer::reduce(value, data[threadIdx.x], threadIdx.x - shift);
+      }
+      end -= align_elements;
+      data += align_elements;
+      shift = align_elements - shift;
+    }
+
+    // Do the vectorized reduction
+    using load_t = aligned_vector<scalar_t, input_vec_size>;
+
+    uint32_t idx = config.input_idx();
+    const uint32_t stride = config.step_input;
+
+    // Multiple accumulators to remove dependency between unrolled loops.
+    arg_t value_list[input_vec_size];
+    value_list[0] = value;
+
+    #pragma unroll
+    for (int i = 1; i < input_vec_size; i++) {
+      value_list[i] = ident;
+    }
+
+    scalar_t values[input_vec_size];
+
+    load_t *values_vector = reinterpret_cast<load_t*>(&values[0]);
+
+    while (idx * input_vec_size + input_vec_size - 1 < end) {
+      *values_vector = reinterpret_cast<const load_t*>(data)[idx];
+      #pragma unroll
+      for (uint32_t i = 0; i < input_vec_size; i++) {
+        value_list[i] = reducer::reduce(value_list[i], values[i], shift + idx * input_vec_size + i);
+      }
+      idx += stride;
+    }
+
+    // tail
+    uint32_t tail_start = end - end % input_vec_size;
+    if (config.should_reduce_tail()) {
+      int idx = tail_start + threadIdx.x;
+      if (idx < end) {
+        value_list[0] = reducer::reduce(value_list[0], data[idx], idx + shift);
+      }
+    }
+
+    // combine accumulators
+    #pragma unroll
+    for (int i = 1; i < input_vec_size; i++) {
+      value_list[0] = reducer::combine(value_list[0], value_list[i]);
+    }
+    return value_list[0];
+  }
+
+  template <int output_vec_size, typename offset_calc_t>
+  C10_DEVICE Array<arg_t, output_vec_size> thread_reduce_impl(const scalar_t* data_, offset_calc_t calc) const {
+    uint32_t idx = config.input_idx();
+    const uint32_t end = config.num_inputs;
+    const uint32_t stride = config.step_input;
+    const int vt0=4;
+
+    using arg_vec_t = Array<arg_t, output_vec_size>;
+    using load_t = aligned_vector<scalar_t, output_vec_size>;
+    const load_t* data = reinterpret_cast<const load_t*>(data_);
+
+    // Multiple accumulators to remove dependency between unrolled loops.
+    arg_vec_t value_list[vt0];
+
+    #pragma unroll
+    for (int i = 0; i < vt0; i++) {
+      #pragma unroll
+      for (int j = 0; j < output_vec_size; j++) {
+        value_list[i][j] = ident;
+      }
+    }
+
+    load_t values[vt0];
+
+    while (idx + (vt0 - 1) * stride < end) {
+      #pragma unroll
+      for (uint32_t i = 0; i < vt0; i++) {
+        values[i] = data[calc(idx + i * stride) / output_vec_size];
+      }
+      #pragma unroll
+      for (uint32_t i = 0; i < vt0; i++) {
+        #pragma unroll
+        for (uint32_t j = 0; j < output_vec_size; j++) {
+          value_list[i][j] = reducer::reduce(value_list[i][j], values[i].val[j], idx + i * stride);
+        }
+      }
+      idx += stride * vt0;
+    }
+
+    // tail
+    int idx_ = idx;
+    #pragma unroll
+    for (uint32_t i = 0; i < vt0; i++) {
+      if (idx >= end) {
+        break;
+      }
+      values[i] = data[calc(idx) / output_vec_size];
+      idx += stride;
+    }
+    idx = idx_;
+    #pragma unroll
+    for (uint32_t i = 0; i < vt0; i++) {
+      if (idx >= end) {
+        break;
+      }
+      #pragma unroll
+      for (uint32_t j = 0; j < output_vec_size; j++) {
+        value_list[i][j] = reducer::reduce(value_list[i][j], values[i].val[j], idx);
+      }
+      idx += stride;
+    }
+
+    // combine accumulators
+    #pragma unroll
+    for (int i = 1; i < vt0; i++) {
+      #pragma unroll
+      for (uint32_t j = 0; j < output_vec_size; j++) {
+        value_list[0][j] = reducer::combine(value_list[0][j], value_list[i][j]);
+      }
+    }
+    return value_list[0];
+  }
+  template <int output_vec_size>
+  C10_DEVICE Array<arg_t, output_vec_size> block_x_reduce(Array<arg_t, output_vec_size> value, char* shared_memory) const {
+    using args_vec_t = Array<arg_t, output_vec_size>;
+    int dim_x = blockDim.x;
+    args_vec_t* shared = (args_vec_t*)shared_memory;
+    if (dim_x > warpSize) {
+      int address_base = threadIdx.x + threadIdx.y*blockDim.x;
+      shared[address_base] = value;
+      for (int offset = dim_x/2; offset >= warpSize; offset >>= 1) {
+        __syncthreads();
+        if (threadIdx.x < offset && threadIdx.x + offset < blockDim.x) {
+          args_vec_t other = shared[address_base + offset];
+          #pragma unroll
+          for (int i = 0; i < output_vec_size; i++) {
+            value[i] = reducer::combine(value[i], other[i]);
+          }
+          shared[address_base] = value;
+        }
+      }
+      dim_x = warpSize;
+    }
+
+    __syncthreads();
+
+    for (int offset = 1; offset < dim_x; offset <<= 1) {
+      #pragma unroll
+      for (int i = 0; i < output_vec_size; i++) {
+        arg_t other = reducer::warp_shfl_down(value[i], offset);
+        value[i] = reducer::combine(value[i], other);
+      }
+    }
+    return value;
+  }
+
+  template <int output_vec_size>
+  C10_DEVICE Array<arg_t, output_vec_size> block_y_reduce(Array<arg_t, output_vec_size> value, char* shared_memory) const {
+    using args_vec_t = Array<arg_t, output_vec_size>;
+    args_vec_t* shared = (args_vec_t*)shared_memory;
+    shared[config.shared_memory_offset(0)] = value;
+    for (int offset = blockDim.y / 2; offset > 0; offset >>= 1) {
+      __syncthreads();
+      if (threadIdx.y < offset && threadIdx.y + offset < blockDim.y) {
+        args_vec_t other = shared[config.shared_memory_offset(offset)];
+        #pragma unroll
+        for (int i = 0; i < output_vec_size; i++) {
+          value[i] = reducer::combine(value[i], other[i]);
+        }
+        shared[config.shared_memory_offset(0)] = value;
+      }
+    }
+    return value;
+  }
+  
+
+  C10_DEVICE bool mark_block_finished() const {
+    __shared__ bool is_last_block_done_shared;
+
+    __syncthreads();
+    if (threadIdx.x == 0 && threadIdx.y == 0) {
+      int prev_blocks_finished = atomicAdd(&semaphores[blockIdx.x], 1);
+      is_last_block_done_shared = (prev_blocks_finished == gridDim.y - 1);
+    }
+
+    __syncthreads();
+
+    return is_last_block_done_shared;
+  }
+
+  template <int output_vec_size>
+  C10_DEVICE Array<arg_t, output_vec_size> accumulate_in_output(
+    Array<out_scalar_t*, output_vec_size> out,
+    Array<arg_t, output_vec_size> value
+  ) const {
+    Array<arg_t, output_vec_size> ret;
+    #pragma unroll
+    for (int i = 0; i < output_vec_size; i++) {
+      ret[i] = reducer::combine(*(out[i]), value[i]);
+    }
+    return ret;
+  }
+
+
+  C10_DEVICE out_scalar_t get_accumulated_output(
+    out_scalar_t* out, arg_t value
+  ) const {
+    assert(!final_output);
+    return (out_scalar_t)value;
+  }
+
+  template<class T>
+  C10_DEVICE void set_results(const T x, const uint32_t base_offset) const {
+    assert(noutputs == 1);
+    auto res = (out_scalar_t*)((char*)dst[0] + base_offset);
+    *res = x;
+  }
+
+//TODO - multi-output reduction - we won't be able to use thrust::pair
+//just explicitly specify typed output reads/writes
+//Currently implemented for max of two outputs
+//   template<class T1, class T2>
+//   C10_DEVICE void set_results(const thrust::pair<T1, T2> x, const index_t base_offset) const {
+//     if (noutputs >= 1) {
+//       auto res0 = (T1*)((char*)dst[0] + base_offset);
+//       *res0 = x.first;
+//     }
+//     if (noutputs >= 2) {
+//       // base offset is computed assuming element size being sizeof(T1), so we need to make a
+//       // correction to obtain the correct base offset
+//       auto res1 = (T2*) ((char *) dst[1] + base_offset / sizeof(T1) * sizeof(T2));
+//       *res1 = x.second;
+//     }
+//   }
+
+  template <int output_vec_size>
+  C10_DEVICE void set_results_to_output(Array<arg_t, output_vec_size> value, Array<uint32_t, output_vec_size> base_offset) const {
+    assert(final_output);
+    #pragma unroll
+    for (int i = 0; i < output_vec_size; i++) {
+      set_results(reducer::project(value[i]), base_offset[i]);
+    }
+  }
+
+  template <int output_vec_size>
+  C10_DEVICE Array<arg_t, output_vec_size> global_reduce(Array<arg_t, output_vec_size> value, Array<arg_t, output_vec_size> *acc, char* shared_memory) const {
+    using arg_vec_t = Array<arg_t, output_vec_size>;
+    using out_ptr_vec_t = Array<out_scalar_t*, output_vec_size>;
+    using offset_vec_t = Array<uint32_t, output_vec_size>;
+
+    arg_vec_t* reduce_buffer = (arg_vec_t*)cta_buf;
+    uint32_t output_idx = config.output_idx<output_vec_size>();
+    offset_vec_t base_offsets;
+    out_ptr_vec_t out;
+
+    #pragma unroll
+    for (int i = 0; i < output_vec_size; i++) {
+      base_offsets[i] = output_calc.get(output_idx + i)[0];
+      out[i] = (out_scalar_t*)((char*)dst[0] + base_offsets[i]);
+    }
+
+    bool should_store = config.should_store(output_idx);
+    if (should_store) {
+      uint32_t offset = config.staging_memory_offset(blockIdx.y);
+      reduce_buffer[offset] = value;
+    }
+
+    __threadfence(); // make sure writes are globally visible
+    __syncthreads(); // if multiple warps in this block wrote to staging, make sure they're all done
+    bool is_last_block_done = mark_block_finished();
+
+    if (is_last_block_done) {
+      __threadfence(); //complete acquire pattern
+      value = ident;
+      if (config.should_block_x_reduce()) {
+        uint32_t input_offset = threadIdx.x + threadIdx.y * blockDim.x;
+        uint32_t step = blockDim.x * blockDim.y;
+        for (; input_offset < config.ctas_per_output; input_offset += step) {
+          uint32_t idx = config.staging_memory_offset(input_offset);
+          arg_vec_t next = reduce_buffer[idx];
+          #pragma unroll
+          for (int i = 0; i < output_vec_size; i++) {
+            value[i] = reducer::combine(value[i], next[i]);
+          }
+        }
+      } else {
+        uint32_t input_offset = threadIdx.y;
+        uint32_t step = blockDim.y;
+        for (; input_offset < config.ctas_per_output; input_offset += step) {
+          uint32_t idx = config.staging_memory_offset(input_offset);
+          arg_vec_t next = reduce_buffer[idx];
+          #pragma unroll
+          for (int i = 0; i < output_vec_size; i++) {
+            value[i] = reducer::combine(value[i], next[i]);
+          }
+        }
+      }
+      value = block_y_reduce(value, shared_memory);
+      if (config.should_block_x_reduce()) {
+        value = block_x_reduce<output_vec_size>(value, shared_memory);
+      }
+      if (should_store) {
+        if (accumulate) {
+          #pragma unroll
+          for (int i = 0; i < output_vec_size; i++) {
+            value[i] = reducer::translate_idx(value[i], base_idx);
+          }
+        }
+
+        if (acc == nullptr) {
+          if (accumulate) {
+            value = accumulate_in_output<output_vec_size>(out, value);
+          }
+          if (final_output) {
+            set_results_to_output<output_vec_size>(value, base_offsets);
+          } else {
+            #pragma unroll
+            for (int i = 0; i < output_vec_size; i++) {
+              *(out[i]) = get_accumulated_output(out[i], value[i]);
+            }
+          }
+        } else {
+          if (accumulate) {
+            #pragma unroll
+            for (int i = 0; i < output_vec_size; i++) {
+              value[i] = reducer::combine((*acc)[i], value[i]);
+            }
+          }
+          if (final_output) {
+            set_results_to_output<output_vec_size>(value, base_offsets);
+          } else {
+            *acc = value;
+          }
+        }
+      }
+    }
+
+    return value;
+  }
+};
+
+extern "C"
+__launch_bounds__(512, 4)
+__global__ void reduction_prod_kernel(ReduceJitOp r){
+  r.run();
+}
+nvrtc: error: failed to open libnvrtc-builtins.so.13.0.
+  Make sure that libnvrtc-builtins.so.13.0 is installed correctly.
+Exception in thread Thread-13 (_pin_memory_loop):
+Traceback (most recent call last):
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/threading.py", line 1045, in _bootstrap_inner
+    self.run()
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/torch/utils/data/_utils/pin_memory.py", line 52, in _pin_memory_loop
+    do_one_step()
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/torch/utils/data/_utils/pin_memory.py", line 28, in do_one_step
+    r = in_queue.get(timeout=MP_STATUS_CHECK_INTERVAL)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/multiprocessing/queues.py", line 122, in get
+    return _ForkingPickler.loads(res)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/site-packages/torch/multiprocessing/reductions.py", line 541, in rebuild_storage_fd
+    fd = df.detach()
+         ^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/multiprocessing/resource_sharer.py", line 57, in detach
+    with _resource_sharer.get_connection(self._id) as conn:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/multiprocessing/resource_sharer.py", line 86, in get_connection
+    c = Client(address, authkey=process.current_process().authkey)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/multiprocessing/connection.py", line 525, in Client
+    answer_challenge(c, authkey)
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/multiprocessing/connection.py", line 774, in answer_challenge
+    response = connection.recv_bytes(256)        # reject large message
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/multiprocessing/connection.py", line 430, in _recv_bytes
+    buf = self._recv(4)
+          ^^^^^^^^^^^^^
+  File "/home/nurlykhan/miniconda3/envs/ai/lib/python3.11/multiprocessing/connection.py", line 395, in _recv
+    chunk = read(handle, remaining)
+            ^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
