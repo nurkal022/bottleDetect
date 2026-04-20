@@ -203,13 +203,18 @@ class InferenceWorker(QThread):
 
         self.finished_work.emit()
 
+    MAX_BBOX_AREA_RATIO = 0.75  # отбрасываем боксы покрывающие > 75% кадра
+    MIN_BBOX_AREA_RATIO = 0.002  # и очень мелкие (< 0.2%)
+    BBOX_EMA_ALPHA = 0.6         # сглаживание координат между кадрами (0=жёстко, 1=плавно)
+
     def _is_detection(self, model) -> bool:
         return getattr(model, "task", "") == "detect"
 
-    def _infer(self, model, frame, use_tracking: bool = False):
+    def _infer(self, model, frame, use_tracking: bool = False,
+               smoothed_boxes: dict | None = None):
         """Returns list of detections: [(cls_id, conf, (x1,y1,x2,y2), track_id), ...]"""
         if self._is_detection(model):
-            imgsz = 512  # меньше 640 — быстрее на CPU, почти не теряет точность
+            imgsz = 640  # как при обучении — точнее bbox
             if use_tracking:
                 res = model.track(frame, imgsz=imgsz, conf=self.conf_thresh,
                                   iou=0.5, persist=True, tracker="bytetrack.yaml",
@@ -222,11 +227,29 @@ class InferenceWorker(QThread):
                 boxes = res.boxes
                 ids = boxes.id.int().cpu().tolist() if boxes.id is not None \
                       else [-1] * len(boxes)
+                h, w = frame.shape[:2]
+                frame_area = float(h * w)
                 for i in range(len(boxes)):
                     cls_id = int(boxes.cls[i])
                     conf = float(boxes.conf[i])
-                    xyxy = boxes.xyxy[i].cpu().numpy().astype(int).tolist()
-                    dets.append((cls_id, conf, tuple(xyxy), ids[i]))
+                    xyxy = boxes.xyxy[i].cpu().numpy().astype(float).tolist()
+                    x1, y1, x2, y2 = xyxy
+                    area = max(0.0, (x2 - x1) * (y2 - y1))
+                    # Фильтр: слишком большие или слишком маленькие
+                    if area / frame_area > self.MAX_BBOX_AREA_RATIO:
+                        continue
+                    if area / frame_area < self.MIN_BBOX_AREA_RATIO:
+                        continue
+                    tid = ids[i]
+                    # EMA-сглаживание координат для стабильных трек-ID
+                    if smoothed_boxes is not None and tid >= 0 and tid in smoothed_boxes:
+                        a = self.BBOX_EMA_ALPHA
+                        px = smoothed_boxes[tid]
+                        xyxy = [a * p + (1 - a) * c for p, c in zip(px, xyxy)]
+                    if smoothed_boxes is not None and tid >= 0:
+                        smoothed_boxes[tid] = xyxy
+                    dets.append((cls_id, conf,
+                                 tuple(int(round(v)) for v in xyxy), tid))
             return dets
         else:
             res = model.predict(frame, imgsz=224, verbose=False,
@@ -271,6 +294,7 @@ class InferenceWorker(QThread):
         seen_ids: set[tuple[int, int]] = set()  # (track_id, cls_id) — уникальные
         last_dets: list = []  # для smoothing/fallback между кадрами
         miss_counter = 0
+        smoothed_boxes: dict[int, list[float]] = {}  # track_id -> [x1,y1,x2,y2] EMA
 
         while True:
             with QMutexLocker(self._mutex):
@@ -288,7 +312,8 @@ class InferenceWorker(QThread):
                                    interpolation=cv2.INTER_LINEAR)
 
             t_start = time.perf_counter()
-            dets = self._infer(model, frame, use_tracking=is_det)
+            dets = self._infer(model, frame, use_tracking=is_det,
+                               smoothed_boxes=smoothed_boxes if is_det else None)
             t_inf = time.perf_counter() - t_start
 
             # Anti-flicker: если на 1-2 кадрах объекты не найдены — показываем предыдущие

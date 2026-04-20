@@ -1,37 +1,39 @@
+# Python
 __pycache__/
 *.pyc
 *.pyo
-.env
 .venv/
 venv/
-.DS_Store
+.env
 
-# IDE
+# OS / IDE
+.DS_Store
+Thumbs.db
 .idea/
 .vscode/
-
-# Jupyter
 .ipynb_checkpoints/
-screenshot_*.png
 
-# OS
-Thumbs.db
-
-# Старый classification датасет (удалён — если появится снова)
+# Большие данные — не в git
 data/
-
-# Старые classification runs
-runs/
+*.rar
 
 # Все .pt, кроме финальной detection-модели
 *.pt
 !runs_det/yolov8n_det/weights/best.pt
 
-# Большие промежуточные артефакты обучения
-*.onnx
+# Промежуточные артефакты обучения
 runs_det/*/weights/last.pt
 runs_det/*/weights/epoch*.pt
+*.onnx
 
-# Временные zip-архивы
+# Скриншоты из демо
+screenshot_*.png
+
+# Zip-архивы
 *.zip
-!bottle defect.v3i.folder.zip
+
+# Тяжёлые видео в тестовой папке (> 5MB)
+test/*.mp4
+test/*.mov
+test/*.avi
+# но если хочешь закоммитить конкретный файл — используй git add -f <file>
