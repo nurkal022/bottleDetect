@@ -1,8 +1,0 @@
-model,params_M,weights_MB,cpu_fps,gpu_fps,top1_acc,family
-yolov8n-cls,1.44,2.97,320.7,885.1,1.0,YOLOv8
-yolov8s-cls,5.09,10.26,161.7,878.5,1.0,YOLOv8
-yolov8m-cls,15.78,31.69,65.4,575.3,1.0,YOLOv8
-yolov8l-cls,36.21,72.59,32.0,377.9,1.0,YOLOv8
-yolo11n-cls,1.54,3.19,252.9,683.8,1.0,YOLOv11
-yolo11s-cls,5.45,11.03,131.0,669.7,1.0,YOLOv11
-yolo11m-cls,10.36,20.88,62.3,566.9,1.0,YOLOv11
